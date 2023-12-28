@@ -1,0 +1,58 @@
+[
+  {
+    "miner_id": "0xaADAAA31b9FFc224E122B47C5b32f541bB208846",
+    "block_number": 1,
+    "block_id": "0x03c573d693189b0470ff94e4080997745e15f9356d71df9c42d22b00a706b131",
+    "block_timestamp": "2023-12-13 22:32:12",
+    "block_parentHash": "0x15e88972ab59a57e2de1cfa13d19971ef85041f8f92aa4af737f476d0cfbdc3a"
+  },
+  {
+    "miner_id": "0xaADAAA31b9FFc224E122B47C5b32f541bB208846",
+    "block_number": 2,
+    "block_id": "0x32a25aaeb1d338e3af39ee160386a369d28a9c588f0201fa8bd60103106e9a2f",
+    "block_timestamp": "2023-12-13 22:32:13",
+    "block_parentHash": "0x03c573d693189b0470ff94e4080997745e15f9356d71df9c42d22b00a706b131"
+  },
+  {
+    "miner_id": "0xaADAAA31b9FFc224E122B47C5b32f541bB208846",
+    "block_number": 3,
+    "block_id": "0x1b6c70ddabf05ab8fb409132658ec41ce060c23267245a9c915cb37940da6400",
+    "block_timestamp": "2023-12-13 22:32:21",
+    "block_parentHash": "0x32a25aaeb1d338e3af39ee160386a369d28a9c588f0201fa8bd60103106e9a2f"
+  },
+  {
+    "miner_id": "0x999A72aF011EE1edF44422a8F55AEc475047D923",
+    "block_number": 4,
+    "block_id": "0x4753f0543a118c8811b41ddebdb8a780caa32db540a3af755c54074b10a51be5",
+    "block_timestamp": "2023-12-13 22:32:25",
+    "block_parentHash": "0x1b6c70ddabf05ab8fb409132658ec41ce060c23267245a9c915cb37940da6400"
+  },
+  {
+    "miner_id": "0x999A72aF011EE1edF44422a8F55AEc475047D923",
+    "block_number": 5,
+    "block_id": "0xef8f231b3b57eb13b8cbd67a471781fec1122ca6ac0bb2bb652112750d167c5b",
+    "block_timestamp": "2023-12-13 22:32:27",
+    "block_parentHash": "0x4753f0543a118c8811b41ddebdb8a780caa32db540a3af755c54074b10a51be5"
+  },
+  {
+    "miner_id": "0x999A72aF011EE1edF44422a8F55AEc475047D923",
+    "block_number": 6,
+    "block_id": "0x53a1d022dee36b6d908d30c1d8ae93b0fb6450a9477534917cf7fa65396fa96b",
+    "block_timestamp": "2023-12-13 22:32:42",
+    "block_parentHash": "0xef8f231b3b57eb13b8cbd67a471781fec1122ca6ac0bb2bb652112750d167c5b"
+  },
+  {
+    "miner_id": "0x999A72aF011EE1edF44422a8F55AEc475047D923",
+    "block_number": 7,
+    "block_id": "0x4f89a384853320ff36b0e4392ec2377f4638d8c88d0fbd68eb903e76f9992eb9",
+    "block_timestamp": "2023-12-13 22:32:43",
+    "block_parentHash": "0x53a1d022dee36b6d908d30c1d8ae93b0fb6450a9477534917cf7fa65396fa96b"
+  },
+  {
+    "miner_id": "0x999A72aF011EE1edF44422a8F55AEc475047D923",
+    "block_number": 8,
+    "block_id": "0x4f89a384853320ff36b0e4392ec2377f4638d8c88d0fbd68eb903e76f9992eb9",
+    "block_timestamp": "2023-12-13 22:32:43",
+    "block_parentHash": "0x53a1d022dee36b6d908d30c1d8ae93b0fb6450a9477534917cf7fa65396fa96b"
+  }
+]

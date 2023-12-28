@@ -1,0 +1,359 @@
+[
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 1,
+    "block_id": "0x2bc4afd0c8ee6b8b1c80c84120c3c98bf3766f568aea30b5fe53d6881cfc0b3f",
+    "block_timestamp": "2023-12-16 15:20:07",
+    "block_parentHash": "0x379374c308002c26a56a69096b644aade8417371db03bef10714b3122c1447df"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 2,
+    "block_id": "0x0d983bb9407bbd45959845be6a7a78169b0df349ae53758bfadee69f61e7d4c5",
+    "block_timestamp": "2023-12-16 15:20:12",
+    "block_parentHash": "0x2bc4afd0c8ee6b8b1c80c84120c3c98bf3766f568aea30b5fe53d6881cfc0b3f"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 3,
+    "block_id": "0x32f900f1663784ebbbc3c884b1bf78832491aca6b79313c54655e399bfadfbc6",
+    "block_timestamp": "2023-12-16 15:20:13",
+    "block_parentHash": "0x0d983bb9407bbd45959845be6a7a78169b0df349ae53758bfadee69f61e7d4c5"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 4,
+    "block_id": "0x780592817541ac39e69cb61992f01dff462185a58ca30e425a31699f8920d250",
+    "block_timestamp": "2023-12-16 15:20:17",
+    "block_parentHash": "0x32f900f1663784ebbbc3c884b1bf78832491aca6b79313c54655e399bfadfbc6"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 5,
+    "block_id": "0x9ceca2c3a474c53f1307545af1805398e8c5914f20ff129fe6cfc05cd542b759",
+    "block_timestamp": "2023-12-16 15:20:21",
+    "block_parentHash": "0x780592817541ac39e69cb61992f01dff462185a58ca30e425a31699f8920d250"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 6,
+    "block_id": "0x15935f31a7c3a76d848178e043db914324e3f453303af2a4cd8ab48a7146427e",
+    "block_timestamp": "2023-12-16 15:20:27",
+    "block_parentHash": "0x9ceca2c3a474c53f1307545af1805398e8c5914f20ff129fe6cfc05cd542b759"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 7,
+    "block_id": "0x7274fb4f8d3847574488a6fa8a57aac5e055d6823034db18e60e25244730e841",
+    "block_timestamp": "2023-12-16 15:20:28",
+    "block_parentHash": "0x15935f31a7c3a76d848178e043db914324e3f453303af2a4cd8ab48a7146427e"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 8,
+    "block_id": "0x2ba5a199ce754a36b7ab3f984ffd4040deb9a92ac4c3adb1307ea2965aaf1c02",
+    "block_timestamp": "2023-12-16 15:20:33",
+    "block_parentHash": "0x7274fb4f8d3847574488a6fa8a57aac5e055d6823034db18e60e25244730e841"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 9,
+    "block_id": "0xca647ceed2481c5a2abd3b31c4016085262d12b7108c820ce7a93074dbd11ac0",
+    "block_timestamp": "2023-12-16 15:20:34",
+    "block_parentHash": "0x2ba5a199ce754a36b7ab3f984ffd4040deb9a92ac4c3adb1307ea2965aaf1c02"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 10,
+    "block_id": "0x1bf9f3a76b04ec92963f4470a403a6d428340ed580e3939d433ef3625255a6f0",
+    "block_timestamp": "2023-12-16 15:20:41",
+    "block_parentHash": "0xca647ceed2481c5a2abd3b31c4016085262d12b7108c820ce7a93074dbd11ac0"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 11,
+    "block_id": "0xb89e70dc0e1bf427b395811d8370a31147fdda293f15941d1aac754922bfb210",
+    "block_timestamp": "2023-12-16 15:20:43",
+    "block_parentHash": "0x1bf9f3a76b04ec92963f4470a403a6d428340ed580e3939d433ef3625255a6f0"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 12,
+    "block_id": "0x033ae6643e64746fdd5525c806d9c1598aef83c9b97aba1091e314d1626bcb44",
+    "block_timestamp": "2023-12-16 15:20:44",
+    "block_parentHash": "0xb89e70dc0e1bf427b395811d8370a31147fdda293f15941d1aac754922bfb210"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 13,
+    "block_id": "0x21a69626549e93f2f47a8b0d6391fa8b3e3a1147ffcfde5a1464980fcbb8280e",
+    "block_timestamp": "2023-12-16 15:20:48",
+    "block_parentHash": "0x033ae6643e64746fdd5525c806d9c1598aef83c9b97aba1091e314d1626bcb44"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 14,
+    "block_id": "0x618ce80ab6553902c2988a8e42be1794ff8b340a7e4a10eadfe9edda3461fcc3",
+    "block_timestamp": "2023-12-16 15:20:49",
+    "block_parentHash": "0x21a69626549e93f2f47a8b0d6391fa8b3e3a1147ffcfde5a1464980fcbb8280e"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 15,
+    "block_id": "0xf3f4465ef7488c3a284643b05762be5a2ca88242be30e743132d17ada56530f0",
+    "block_timestamp": "2023-12-16 15:20:52",
+    "block_parentHash": "0x618ce80ab6553902c2988a8e42be1794ff8b340a7e4a10eadfe9edda3461fcc3"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 16,
+    "block_id": "0xbc8a6f4fa92aea63af1fd78b7a0d415b4ecb4d4ceaaa4d970354a31b831cf9f7",
+    "block_timestamp": "2023-12-16 15:20:53",
+    "block_parentHash": "0xf3f4465ef7488c3a284643b05762be5a2ca88242be30e743132d17ada56530f0"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 17,
+    "block_id": "0xe04f8a4f770d9f9f8eb41f4ae204011afb65092627118850df465551b87ba6cb",
+    "block_timestamp": "2023-12-16 15:20:54",
+    "block_parentHash": "0xbc8a6f4fa92aea63af1fd78b7a0d415b4ecb4d4ceaaa4d970354a31b831cf9f7"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 18,
+    "block_id": "0xd1d17ebf37467074aff97f71574962ce4d14db144d68bb3afac3f3fb7d1c0507",
+    "block_timestamp": "2023-12-16 15:20:55",
+    "block_parentHash": "0xe04f8a4f770d9f9f8eb41f4ae204011afb65092627118850df465551b87ba6cb"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 19,
+    "block_id": "0xc601be4742d55950c8cccdcb92c7535f7ee0c76ff87f361aae81ef70e2ea2897",
+    "block_timestamp": "2023-12-16 15:20:57",
+    "block_parentHash": "0xd1d17ebf37467074aff97f71574962ce4d14db144d68bb3afac3f3fb7d1c0507"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 20,
+    "block_id": "0x8790912b338f1c3db84de7e66c5a6ac17a7e9664c5d184d570a25321c9a9177d",
+    "block_timestamp": "2023-12-16 15:21:00",
+    "block_parentHash": "0xc601be4742d55950c8cccdcb92c7535f7ee0c76ff87f361aae81ef70e2ea2897"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 21,
+    "block_id": "0xcd2c38c4eb167ec11f5dc60d88544e5e90bc9ca8a61cfc1e2dfb8eeed6ca3510",
+    "block_timestamp": "2023-12-16 15:21:01",
+    "block_parentHash": "0x8790912b338f1c3db84de7e66c5a6ac17a7e9664c5d184d570a25321c9a9177d"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 22,
+    "block_id": "0x4cbf4fda627fb7e6221383072b3a4487a1b9dd620d91efbe31f2e12896671025",
+    "block_timestamp": "2023-12-16 15:21:03",
+    "block_parentHash": "0xcd2c38c4eb167ec11f5dc60d88544e5e90bc9ca8a61cfc1e2dfb8eeed6ca3510"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 23,
+    "block_id": "0x1f5d8152fd930d0d97b1d6bc6f8f2fc14bee4bcb05f8c2384cb485ad4aff4af1",
+    "block_timestamp": "2023-12-16 15:21:05",
+    "block_parentHash": "0x4cbf4fda627fb7e6221383072b3a4487a1b9dd620d91efbe31f2e12896671025"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 24,
+    "block_id": "0xb44f7cd63d9d06fb8477b8d4ed0a86aa1c9a759236c1a94997bde01a3392aa9e",
+    "block_timestamp": "2023-12-16 15:21:07",
+    "block_parentHash": "0x1f5d8152fd930d0d97b1d6bc6f8f2fc14bee4bcb05f8c2384cb485ad4aff4af1"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 25,
+    "block_id": "0xdc4db0e0f68b7e43f410dba1b15b2d5604a7fff9fa3394df95d5d1c2f7892ea7",
+    "block_timestamp": "2023-12-16 15:21:08",
+    "block_parentHash": "0xb44f7cd63d9d06fb8477b8d4ed0a86aa1c9a759236c1a94997bde01a3392aa9e"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 26,
+    "block_id": "0x38dd61c084d1ecdb8651355c61f0c89d6a79abb14b0943ff8a418b8eebd4cd6d",
+    "block_timestamp": "2023-12-16 15:21:09",
+    "block_parentHash": "0xdc4db0e0f68b7e43f410dba1b15b2d5604a7fff9fa3394df95d5d1c2f7892ea7"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 27,
+    "block_id": "0x2f79c9985c6715b34e8fc6a93bff6dc93260adba11d53dbcf8f2aa024a87d8ae",
+    "block_timestamp": "2023-12-16 15:21:12",
+    "block_parentHash": "0x38dd61c084d1ecdb8651355c61f0c89d6a79abb14b0943ff8a418b8eebd4cd6d"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 28,
+    "block_id": "0xf26ceca4da9d211015f998c644d0fa2a08ff9c15457f8763654fd86e64072d19",
+    "block_timestamp": "2023-12-16 15:21:17",
+    "block_parentHash": "0x2f79c9985c6715b34e8fc6a93bff6dc93260adba11d53dbcf8f2aa024a87d8ae"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 29,
+    "block_id": "0x83b07e9f58e4d6d067aa97787b3124838fb67da53c2a14529082bc75a8f9c11f",
+    "block_timestamp": "2023-12-16 15:21:20",
+    "block_parentHash": "0xf26ceca4da9d211015f998c644d0fa2a08ff9c15457f8763654fd86e64072d19"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 30,
+    "block_id": "0x725c803b3cd7e9e2f02012311f9beccd97fdc1174dc2c7d0006271a92dc07119",
+    "block_timestamp": "2023-12-16 15:21:21",
+    "block_parentHash": "0x83b07e9f58e4d6d067aa97787b3124838fb67da53c2a14529082bc75a8f9c11f"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 31,
+    "block_id": "0x5d79afd5cb5fc896a208cbbde4af39eded2d369aa9c31e6119b6645114bba867",
+    "block_timestamp": "2023-12-16 15:21:22",
+    "block_parentHash": "0x725c803b3cd7e9e2f02012311f9beccd97fdc1174dc2c7d0006271a92dc07119"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 32,
+    "block_id": "0x2c0e479b3120e925caab128dec84af7a808b4ca74b5b0edb98d98ebffd136b9e",
+    "block_timestamp": "2023-12-16 15:21:23",
+    "block_parentHash": "0x5d79afd5cb5fc896a208cbbde4af39eded2d369aa9c31e6119b6645114bba867"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 33,
+    "block_id": "0x8b1a99a4e3a8a0419e2edf5a1b327aa2c08943a9b2e0988a9bb62ce4020b1f8f",
+    "block_timestamp": "2023-12-16 15:21:24",
+    "block_parentHash": "0x2c0e479b3120e925caab128dec84af7a808b4ca74b5b0edb98d98ebffd136b9e"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 34,
+    "block_id": "0x1afe789861753875fd74837513242f343452df517f7415138afad3adf5ff4728",
+    "block_timestamp": "2023-12-16 15:21:26",
+    "block_parentHash": "0x8b1a99a4e3a8a0419e2edf5a1b327aa2c08943a9b2e0988a9bb62ce4020b1f8f"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 35,
+    "block_id": "0x10ea8cfc4d6405424dda847410f312dbcb8f5b6af391ad2d68a8dd3cc7120d92",
+    "block_timestamp": "2023-12-16 15:21:28",
+    "block_parentHash": "0x1afe789861753875fd74837513242f343452df517f7415138afad3adf5ff4728"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 36,
+    "block_id": "0x2afa082dfc09b92e6619e2510da5cbb5c8493c1554f40eda8618cc7fa09ed600",
+    "block_timestamp": "2023-12-16 15:21:30",
+    "block_parentHash": "0x10ea8cfc4d6405424dda847410f312dbcb8f5b6af391ad2d68a8dd3cc7120d92"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 37,
+    "block_id": "0x7e63e23bd53b028a0ea564e54c70e4433a276260b35190721fb03e03fa35001e",
+    "block_timestamp": "2023-12-16 15:21:31",
+    "block_parentHash": "0x2afa082dfc09b92e6619e2510da5cbb5c8493c1554f40eda8618cc7fa09ed600"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 38,
+    "block_id": "0xa95f6916ce1878ec5ca7c474d538044180c4b36dcea1dae13628e3b42794e9d6",
+    "block_timestamp": "2023-12-16 15:21:32",
+    "block_parentHash": "0x7e63e23bd53b028a0ea564e54c70e4433a276260b35190721fb03e03fa35001e"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 39,
+    "block_id": "0xfae632322d2e0abd724791d4829e2b303798b682e59f5315578979687aa3913f",
+    "block_timestamp": "2023-12-16 15:21:33",
+    "block_parentHash": "0xa95f6916ce1878ec5ca7c474d538044180c4b36dcea1dae13628e3b42794e9d6"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 40,
+    "block_id": "0xb56d392fe1e36bc2104204c879c8d3caebcf5267d52b14384280b7fddf055443",
+    "block_timestamp": "2023-12-16 15:21:35",
+    "block_parentHash": "0xfae632322d2e0abd724791d4829e2b303798b682e59f5315578979687aa3913f"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 41,
+    "block_id": "0x685bb62e27f9e5036de5eca1082eb33a9336187495b9342153f20ebd4fd98273",
+    "block_timestamp": "2023-12-16 15:21:43",
+    "block_parentHash": "0xb56d392fe1e36bc2104204c879c8d3caebcf5267d52b14384280b7fddf055443"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 42,
+    "block_id": "0x66e2a76cfe3527dbe9ab7550478cf96dd09f38d9a4e837b53af0a1b3c6bcce8e",
+    "block_timestamp": "2023-12-16 15:21:45",
+    "block_parentHash": "0x685bb62e27f9e5036de5eca1082eb33a9336187495b9342153f20ebd4fd98273"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 43,
+    "block_id": "0x4d80ad61ff114f606a0b2730ec4c0c7202f7e314c407d04b6d559f278ae0790d",
+    "block_timestamp": "2023-12-16 15:21:46",
+    "block_parentHash": "0x66e2a76cfe3527dbe9ab7550478cf96dd09f38d9a4e837b53af0a1b3c6bcce8e"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 44,
+    "block_id": "0x44d9d8cf198ced8bffe3d5967bc7c59b309606eaf3adcddac3a77d609e1d90da",
+    "block_timestamp": "2023-12-16 15:21:47",
+    "block_parentHash": "0x4d80ad61ff114f606a0b2730ec4c0c7202f7e314c407d04b6d559f278ae0790d"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 45,
+    "block_id": "0x7770c143c297b1a5546b08be2141b60f426ea3ae0efa0770a8ec18bd652e0195",
+    "block_timestamp": "2023-12-16 15:21:48",
+    "block_parentHash": "0x44d9d8cf198ced8bffe3d5967bc7c59b309606eaf3adcddac3a77d609e1d90da"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 46,
+    "block_id": "0x54052c215c6b161975c60fc4e768d157e9603fed00ae161addf9cd74c520f775",
+    "block_timestamp": "2023-12-16 15:21:50",
+    "block_parentHash": "0x7770c143c297b1a5546b08be2141b60f426ea3ae0efa0770a8ec18bd652e0195"
+  },
+  {
+    "miner_id": "0xB2B7Fa3d3BeF16C7bF74D463174EB3Cf73433dF9",
+    "block_number": 47,
+    "block_id": "0xf65654335b83574b44653daedaa0a67665bbf7dd83632bebb852297b738ccb89",
+    "block_timestamp": "2023-12-16 15:21:51",
+    "block_parentHash": "0x54052c215c6b161975c60fc4e768d157e9603fed00ae161addf9cd74c520f775"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 48,
+    "block_id": "0xea62895e44e62dd32589e1ff2cf11cfee55835676046c216b97e9a9fc14bbd7f",
+    "block_timestamp": "2023-12-16 15:21:52",
+    "block_parentHash": "0xf65654335b83574b44653daedaa0a67665bbf7dd83632bebb852297b738ccb89"
+  },
+  {
+    "miner_id": "0x6E78f824b1453F9d0A39B2E38e6E636e0aA51D1c",
+    "block_number": 49,
+    "block_id": "0xdc962ce58f52a4459af3c7721d5d21b2608a7b76065fecb983d511f84f2f8142",
+    "block_timestamp": "2023-12-16 15:21:53",
+    "block_parentHash": "0xea62895e44e62dd32589e1ff2cf11cfee55835676046c216b97e9a9fc14bbd7f"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 50,
+    "block_id": "0x2a65355dd1ea4ca147eaeeb4dc2986e2917f5e88abdbee1c26dfa1b9d6625cf3",
+    "block_timestamp": "2023-12-16 15:21:54",
+    "block_parentHash": "0xdc962ce58f52a4459af3c7721d5d21b2608a7b76065fecb983d511f84f2f8142"
+  },
+  {
+    "miner_id": "0x9Df871D5A7F00f17cCd20A4c20B79043194F53Fa",
+    "block_number": 51,
+    "block_id": "0x2a65355dd1ea4ca147eaeeb4dc2986e2917f5e88abdbee1c26dfa1b9d6625cf3",
+    "block_timestamp": "2023-12-16 15:21:54",
+    "block_parentHash": "0xdc962ce58f52a4459af3c7721d5d21b2608a7b76065fecb983d511f84f2f8142"
+  }
+]

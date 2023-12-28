@@ -1,0 +1,7 @@
+{
+  "/home/raspberry-node/MAP/{hostname}}/{chain_id}/all_block_data.json": null,
+  "/home/raspberry-node/MAP/{hostname}}/{chain_id}/block_data.log": null,
+  "/home/raspberry-node/MAP/{hostname}}/{chain_id}/chain_output.json": null,
+  "/home/raspberry-node/MAP/{hostname}}/{chain_id}/mining_output.log": null,
+  "/home/raspberry-node/MAP/{hostname}}/{chain_id}//output_mining.json": null
+}

@@ -1,0 +1,117 @@
+INFO [12-16|02:37:25.466] Maximum peer count                       ETH=50 LES=0 total=50
+INFO [12-16|02:37:25.469] Smartcard socket not found, disabling    err="stat /run/pcscd/pcscd.comm: no such file or directory"
+INFO [12-16|02:37:25.477] Set global gas cap                       cap=50,000,000
+INFO [12-16|02:37:25.483] Allocated trie memory caches             clean=154.00MiB dirty=256.00MiB
+INFO [12-16|02:37:25.484] Using leveldb as the backing database 
+INFO [12-16|02:37:25.484] Allocated cache and file handles         database=/home/raspberry-node/.testchain44/geth/chaindata cache=512.00MiB handles=524,288
+INFO [12-16|02:37:25.531] Using LevelDB as the backing database 
+INFO [12-16|02:37:25.532] Opened ancient database                  database=/home/raspberry-node/.testchain44/geth/chaindata/ancient/chain readonly=false
+INFO [12-16|02:37:25.533] Disk storage enabled for ethash caches   dir=/home/raspberry-node/.testchain44/geth/ethash count=3
+INFO [12-16|02:37:25.534] Disk storage enabled for ethash DAGs     dir=/home/raspberry-node/.ethash count=2
+INFO [12-16|02:37:25.534] Initialising Ethereum protocol           network=42 dbversion=<nil>
+INFO [12-16|02:37:25.535]  
+INFO [12-16|02:37:25.535] --------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO [12-16|02:37:25.535] Chain ID:  4285 (unknown) 
+INFO [12-16|02:37:25.535] Consensus: Ethash (proof-of-work) 
+INFO [12-16|02:37:25.535]  
+INFO [12-16|02:37:25.535] Pre-Merge hard forks (block based): 
+INFO [12-16|02:37:25.535]  - Homestead:                   #0        (https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/homestead.md) 
+INFO [12-16|02:37:25.535]  - Tangerine Whistle (EIP 150): #0        (https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/tangerine-whistle.md) 
+INFO [12-16|02:37:25.535]  - Spurious Dragon/1 (EIP 155): #0        (https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/spurious-dragon.md) 
+INFO [12-16|02:37:25.535]  - Spurious Dragon/2 (EIP 158): #0        (https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/spurious-dragon.md) 
+INFO [12-16|02:37:25.535]  - Byzantium:                   #0        (https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/byzantium.md) 
+INFO [12-16|02:37:25.535]  - Constantinople:              #0        (https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/constantinople.md) 
+INFO [12-16|02:37:25.535]  - Petersburg:                  #0        (https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/petersburg.md) 
+INFO [12-16|02:37:25.535]  - Istanbul:                    #0        (https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/istanbul.md) 
+INFO [12-16|02:37:25.535]  - Berlin:                      #0        (https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/berlin.md) 
+INFO [12-16|02:37:25.535]  - London:                      #<nil> (https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/london.md) 
+INFO [12-16|02:37:25.535]  
+INFO [12-16|02:37:25.535] The Merge is not yet available for this network! 
+INFO [12-16|02:37:25.535]  - Hard-fork specification: https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/paris.md 
+INFO [12-16|02:37:25.535]  
+INFO [12-16|02:37:25.536] Post-Merge hard forks (timestamp based): 
+INFO [12-16|02:37:25.536]  
+INFO [12-16|02:37:25.536] --------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO [12-16|02:37:25.536]  
+INFO [12-16|02:37:25.537] Loaded most recent local block           number=0 hash=45f300..179bfa td=250 age=54y8mo3w
+WARN [12-16|02:37:25.537] Failed to load snapshot                  err="missing or corrupted snapshot"
+INFO [12-16|02:37:25.537] Rebuilding state snapshot 
+INFO [12-16|02:37:25.538] Resuming state snapshot generation       root=56e81f..63b421 accounts=0 slots=0 storage=0.00B dangling=0 elapsed="633.551µs"
+INFO [12-16|02:37:25.538] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [12-16|02:37:25.538] Generated state snapshot                 accounts=0 slots=0 storage=0.00B dangling=0 elapsed=1.410ms
+INFO [12-16|02:37:25.539] Gasprice oracle is ignoring threshold set threshold=2
+WARN [12-16|02:37:25.539] Error reading unclean shutdown markers   error="leveldb: not found"
+WARN [12-16|02:37:25.539] Engine API enabled                       protocol=eth
+WARN [12-16|02:37:25.539] Engine API started but chain not configured for merge yet 
+INFO [12-16|02:37:25.540] Starting peer-to-peer node               instance=Geth/v1.11.6-stable-ea9e62ca/linux-arm64/go1.20.5
+INFO [12-16|02:37:25.572] New local node record                    seq=1,702,690,645,571 id=b50e0773f240a043 ip=127.0.0.1 udp=0 tcp=4242
+INFO [12-16|02:37:25.573] Started P2P networking                   self="enode://810160f2a4da2c75370ceceebdcb5d10554aabc12a0b6bce0917aa92e131c9b510e8ef5dddebfc2bf021cfba4ddd291a5c6d6432e376ec8e39d4879be288919f@127.0.0.1:4242?discport=0"
+INFO [12-16|02:37:25.576] IPC endpoint opened                      url=/home/raspberry-node/.testchain44/geth.ipc
+INFO [12-16|02:37:25.577] Generated JWT secret                     path=/home/raspberry-node/.testchain44/geth/jwtsecret
+INFO [12-16|02:37:25.579] WebSocket enabled                        url=ws://127.0.0.1:8551
+INFO [12-16|02:37:25.579] HTTP server started                      endpoint=127.0.0.1:8551 auth=true prefix= cors=localhost vhosts=localhost
+Welcome to the Geth JavaScript console!
+
+instance: Geth/v1.11.6-stable-ea9e62ca/linux-arm64/go1.20.5
+coinbase: 0xc5f4aac71001b17042f11a884e7410baa4db0bb5
+at block: 0 (Thu Jan 01 1970 01:00:00 GMT+0100 (CET))
+ datadir: /home/raspberry-node/.testchain44
+ modules: admin:1.0 debug:1.0 engine:1.0 eth:1.0 ethash:1.0 miner:1.0 net:1.0 rpc:1.0 txpool:1.0 web3:1.0
+
+To exit, press ctrl-d or type exit
+> INFO [12-16|02:37:26.276] New local node record                    seq=1,702,690,645,572 id=b50e0773f240a043 ip=192.168.1.87 udp=0 tcp=4242
+INFO [12-16|02:37:37.483] Updated mining threads                   threads=1
+INFO [12-16|02:37:37.483] Transaction pool price threshold updated price=1,000,000,000
+INFO [12-16|02:37:37.486] Commit new sealing work                  number=1 sealhash=2996e2..6ef682 uncles=0 txs=0 gas=0 fees=0 elapsed=1.626ms
+INFO [12-16|02:37:37.486] Commit new sealing work                  number=1 sealhash=2996e2..6ef682 uncles=0 txs=0 gas=0 fees=0 elapsed=2.311ms
+INFO [12-16|02:38:09.191] Looking for peers                        peercount=2 tried=1 static=1
+WARN [12-16|02:38:10.158] Snap syncing, discarded propagated block number=1 hash=969ac9..ea464e
+WARN [12-16|02:38:10.801] Snap syncing, discarded propagated block number=1 hash=d42673..5d5d8a
+INFO [12-16|02:38:13.218] Successfully sealed new block            number=1 sealhash=2996e2..6ef682 hash=8929ac..454a11 elapsed=35.732s
+INFO [12-16|02:38:13.218] "🔨 mined potential block"                number=1 hash=8929ac..454a11
+INFO [12-16|02:38:13.218] Commit new sealing work                  number=2 sealhash=ec7055..64f68e uncles=0 txs=0 gas=0 fees=0 elapsed="489.015µs"
+INFO [12-16|02:38:13.219] Commit new sealing work                  number=2 sealhash=ec7055..64f68e uncles=0 txs=0 gas=0 fees=0 elapsed="770.309µs"
+INFO [12-16|02:38:14.582] Successfully sealed new block            number=2 sealhash=ec7055..64f68e hash=24e950..b714a3 elapsed=1.363s
+INFO [12-16|02:38:14.582] "🔨 mined potential block"                number=2 hash=24e950..b714a3
+INFO [12-16|02:38:14.583] Commit new sealing work                  number=3 sealhash=cecce1..c1b99f uncles=0 txs=0 gas=0 fees=0 elapsed="634.477µs"
+INFO [12-16|02:38:14.583] Commit new sealing work                  number=3 sealhash=cecce1..c1b99f uncles=0 txs=0 gas=0 fees=0 elapsed="960.549µs"
+INFO [12-16|02:38:22.169] Block synchronisation started 
+INFO [12-16|02:38:22.169] Mining aborted due to sync 
+INFO [12-16|02:38:22.192] Syncing: chain download in progress      synced=100.00% chain=18.00B headers=3@6.00B bodies=2@6.00B receipts=2@6.00B eta=0s
+INFO [12-16|02:38:22.196] Syncing: state download in progress      synced=10.09%  state=194.00B accounts=1@194.00B slots=0@0.00B codes=0@0.00B eta=197.816ms
+INFO [12-16|02:38:22.203] Syncing: state download in progress      synced=100.00% state=194.00B accounts=1@194.00B slots=0@0.00B codes=0@0.00B eta=-101ns
+INFO [12-16|02:38:22.205] Syncing: state healing in progress       accounts=1@46.00B  slots=0@0.00B codes=0@0.00B nodes=1@116.00B pending=0
+INFO [12-16|02:38:22.206] Rebuilding state snapshot 
+INFO [12-16|02:38:22.207] Committed new head block                 number=2 hash=1e97a2..03a76e
+INFO [12-16|02:38:22.207] Resuming state snapshot generation       root=bb36f5..3bbf2d accounts=0         slots=0       storage=0.00B dangling=0 elapsed="872.123µs"
+INFO [12-16|02:38:22.208] Generated state snapshot                 accounts=1         slots=0       storage=47.00B dangling=0 elapsed=1.544ms
+INFO [12-16|02:38:22.216] Imported new chain segment               number=3 hash=876d80..faddea blocks=1 txs=0 mgas=0.000 elapsed=9.434ms     mgasps=0.000 dirty=729.00B
+WARN [12-16|02:38:22.396] Snap syncing, discarded propagated block number=4 hash=647b28..e81a1e
+INFO [12-16|02:38:25.204] Imported new chain segment               number=5 hash=2e3770..4b6250 blocks=2 txs=0 mgas=0.000 elapsed=9.874ms     mgasps=0.000 dirty=1.63KiB
+INFO [12-16|02:38:25.204] Syncing: chain download in progress      synced=250.00% chain=18.00B headers=5@6.00B bodies=5@6.00B receipts=5@6.00B eta=-1.808s
+INFO [12-16|02:38:25.205] Syncing: state healing in progress       accounts=1@46.00B  slots=0@0.00B codes=0@0.00B nodes=1@116.00B pending=1
+WARN [12-16|02:38:25.205] Synchronisation failed, retrying         err="sync cancelled"
+INFO [12-16|02:38:25.206] Commit new sealing work                  number=6 sealhash=033ba0..1e9b74 uncles=0 txs=0 gas=0 fees=0 elapsed="445.182µs"
+INFO [12-16|02:38:25.206] Commit new sealing work                  number=6 sealhash=033ba0..1e9b74 uncles=0 txs=0 gas=0 fees=0 elapsed=1.060ms
+INFO [12-16|02:38:25.774] Successfully sealed new block            number=6 sealhash=033ba0..1e9b74 hash=ab10e1..d7d7ef elapsed=568.547ms
+INFO [12-16|02:38:25.774] "🔨 mined potential block"                number=6 hash=ab10e1..d7d7ef
+INFO [12-16|02:38:25.775] Commit new sealing work                  number=7 sealhash=83e287..9d2aed uncles=0 txs=0 gas=0 fees=0 elapsed=1.006ms
+INFO [12-16|02:38:25.777] Commit new sealing work                  number=7 sealhash=83e287..9d2aed uncles=0 txs=0 gas=0 fees=0 elapsed=2.355ms
+INFO [12-16|02:38:26.568] Successfully sealed new block            number=7 sealhash=83e287..9d2aed hash=e6084f..8f47a3 elapsed=793.151ms
+INFO [12-16|02:38:26.568] "🔨 mined potential block"                number=7 hash=e6084f..8f47a3
+INFO [12-16|02:38:26.569] Commit new sealing work                  number=8 sealhash=9c74d2..e01f2f uncles=0 txs=0 gas=0 fees=0 elapsed="497.959µs"
+INFO [12-16|02:38:26.569] Commit new sealing work                  number=8 sealhash=9c74d2..e01f2f uncles=0 txs=0 gas=0 fees=0 elapsed="970.141µs"
+INFO [12-16|02:38:27.158] Successfully sealed new block            number=8 sealhash=9c74d2..e01f2f hash=234ceb..c9baa9 elapsed=588.807ms
+INFO [12-16|02:38:27.158] "😱 block lost"                           number=1 hash=8929ac..454a11
+INFO [12-16|02:38:27.158] "🔨 mined potential block"                number=8 hash=234ceb..c9baa9
+INFO [12-16|02:38:27.158] Commit new sealing work                  number=9 sealhash=f033ce..0d1d4f uncles=0 txs=0 gas=0 fees=0 elapsed="443.385µs"
+INFO [12-16|02:38:27.159] Commit new sealing work                  number=9 sealhash=f033ce..0d1d4f uncles=0 txs=0 gas=0 fees=0 elapsed=1.382ms
+INFO [12-16|02:38:35.800] Updated mining threads                   threads=1
+INFO [12-16|02:38:35.801] Transaction pool price threshold updated price=1,000,000,000
+INFO [12-16|02:38:35.801] Commit new sealing work                  number=9 sealhash=bcac2e..8db7a3 uncles=0 txs=0 gas=0 fees=0 elapsed="447.719µs"
+INFO [12-16|02:38:35.802] Commit new sealing work                  number=9 sealhash=bcac2e..8db7a3 uncles=0 txs=0 gas=0 fees=0 elapsed="777.531µs"
+INFO [12-16|02:38:36.015] Successfully sealed new block            number=9 sealhash=bcac2e..8db7a3 hash=7c00a1..3c32b6 elapsed=214.035ms
+INFO [12-16|02:38:36.016] "😱 block lost"                           number=2 hash=24e950..b714a3
+INFO [12-16|02:38:36.016] "🔨 mined potential block"                number=9 hash=7c00a1..3c32b6
+INFO [12-16|02:38:36.017] Commit new sealing work                  number=10 sealhash=ef67ca..b51d1c uncles=0 txs=0 gas=0 fees=0 elapsed=1.452ms
+INFO [12-16|02:38:36.017] Commit new sealing work                  number=10 sealhash=ef67ca..b51d1c uncles=0 txs=0 gas=0 fees=0 elapsed=1.809ms
